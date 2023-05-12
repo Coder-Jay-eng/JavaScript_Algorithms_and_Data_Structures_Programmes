@@ -16,7 +16,6 @@ function palindrome(str) {
   
     } return false //returns false if the two aren't the same
     };
-  
   console.log(palindrome("almostomla")); //returns false
 
   console.log(palindrome("_eye")); // returns true
